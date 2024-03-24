@@ -693,13 +693,13 @@ bdOnLoadAnim('bd-faq-area','active-anim','35%');
 		  },
 		breakpoints: {
 			'1200': {
-				slidesPerView: 3,
+				slidesPerView: 2,
 			},
 			'992': {
 				slidesPerView: 2,
 			},
 			'768': {
-				slidesPerView: 2,
+				slidesPerView: 1,
 			},
 			'576': {
 				slidesPerView: 1,
