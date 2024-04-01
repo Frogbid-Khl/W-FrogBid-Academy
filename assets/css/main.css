@@ -2635,6 +2635,10 @@ i[class^=flaticon-] {
     margin-inline-end: 25px;
 }
 
+.bd-main-menu ul li a.active {
+    color: #ff9b24;
+}
+
 .bd-main-menu ul li:last-child {
     margin-inline-end: 0px;
 }

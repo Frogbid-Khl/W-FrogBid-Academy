@@ -1,0 +1,9 @@
+ErrorDocument 404 https://frogbidacademy.com
+
+RewriteEngine on
+
+RewriteRule ^হোম index.html [NE,L]
+
+RewriteRule ^গ্যালারি gallery.html [NE,L]
+
+RewriteRule ^যোগাযোগ contact.html [NE,L]
