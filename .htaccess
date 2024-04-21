@@ -4,6 +4,12 @@ RewriteEngine on
 
 RewriteRule ^home index.html [NE,L]
 
+RewriteRule ^code-star code-star.html [NE,L]
+
+RewriteRule ^code-craft code-craft.html [NE,L]
+
+RewriteRule ^code-master code-master.html [NE,L]
+
 RewriteRule ^gallery gallery.html [NE,L]
 
 RewriteRule ^contact contact.html [NE,L]
